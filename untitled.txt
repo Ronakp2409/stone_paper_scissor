@@ -1,0 +1,4 @@
+import numpy as np
+import panda as pd
+lsit=[11,12,13,14,15]
+x=pd.Series(list)

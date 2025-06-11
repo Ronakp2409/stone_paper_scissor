@@ -1,0 +1,13 @@
+I am an experienced ETL/Data Engineer with over 4 years of expertise in ETL development, data migration, and data warehousing. 
+I am currently working as a Data Engineer Analyst at Accenture
+I have hands-on experience working with IBM InfoSphere DataStage, leveraging Change Data Capture (CDC) for seamless data movement between OLTP and OLAP 
+systems.
+Throughout my career, I have been involved in end-to-end ETL implementation, working on data pipeline optimization, performance tuning,
+and cloud-based data integration using Google Cloud (BigQuery, Cloud Storage) and AWS services. Additionally, 
+I have worked extensively with Informatica PowerCenter, IICS, SQL Server, Oracle Database, and DB2 to design and implement scalable ETL solutions.
+I have a strong track record of collaborating with cross-functional teams, ensuring smooth data transformation and migration 
+while maintaining high-quality standards. My expertise also includes scheduling tools like Control-M and workflow automation to streamline processes 
+efficiently.
+With my problem-solving mindset, hands-on technical experience, and ability to work in fast-paced environments,
+I am excited about the opportunity to contribute to IBM’s data engineering and ETL initiatives.
+I look forward to discussing how my skills can add value to the team.
